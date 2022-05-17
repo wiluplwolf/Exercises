@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+// Checking how many letters, spaces, numbers and special character are in string
 public class Exercise26 {
     public void exercise() {
         Scanner sc = new Scanner(System.in);

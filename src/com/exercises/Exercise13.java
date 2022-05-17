@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Area and perimeter of rectangle
 public class Exercise13 {
     private static final double width = 5.5;
     private static final double height = 8.5;

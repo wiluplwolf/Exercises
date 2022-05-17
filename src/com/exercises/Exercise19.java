@@ -1,5 +1,6 @@
 package com.exercises;
 
+//Taking system info about Java
 public class Exercise19 {
     public void exercise() {
         System.out.println("\nJava Version: "+System.getProperty("java.version"));

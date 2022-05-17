@@ -1,5 +1,10 @@
 package com.exercises;
 
+/*Searching target in matrix 3x3
+  1  2  3
+  4  5  6
+  7  8  9
+ */
 public class Exercise12 {
     public void exercise(){
         int target = 0, x = 1;

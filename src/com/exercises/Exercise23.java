@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Area of n-side polygon
 public class Exercise23 {
     public void exercise() {
         Scanner sc = new Scanner(System.in);

@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Area and perimeter of circle
 public class Exercise10 {
     private static final double radius = 7.5;
 

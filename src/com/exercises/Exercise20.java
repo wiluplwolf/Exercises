@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+// Comparing of two numbers
 public class Exercise20 {
     public void exercise() {
         Scanner sc = new Scanner(System.in);

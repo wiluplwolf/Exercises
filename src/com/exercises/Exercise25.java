@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+// Reverse sentence
 public class Exercise25 {
     public void exercise() {
         Scanner sc = new Scanner(System.in);

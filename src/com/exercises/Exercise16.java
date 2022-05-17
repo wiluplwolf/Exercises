@@ -1,5 +1,6 @@
 package com.exercises;
 
+//Print face
 public class Exercise16 {
     public void exercise() {
         System.out.println(" +\"\"\"\"\"+");

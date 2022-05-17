@@ -1,5 +1,6 @@
 package com.exercises;
 
+//Addition of two binaries
 public class Exercise17 {
     public void exercise() {
         long binary1, binary2;

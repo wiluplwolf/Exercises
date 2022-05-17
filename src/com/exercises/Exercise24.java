@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Distance between two point on earth
 public class Exercise24 {
     public static final double radius = 6371.01;
     public void exercise() {

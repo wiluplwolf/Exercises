@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Calc the average of provided numbers
 public class Exercise11 {
     public void exercise() {
         Scanner sc = new Scanner(System.in);

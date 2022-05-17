@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Simple swap two numbers
 public class Exercise15 {
     public void exercise() {
         int x,y,z;

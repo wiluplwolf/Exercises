@@ -1,5 +1,6 @@
 package com.exercises;
 
+//Length of last word in string
 public class Exercise14 {
     public void exercise() {
         String str = "People are for your decision";

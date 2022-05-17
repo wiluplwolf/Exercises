@@ -2,13 +2,14 @@ package com.exercises;
 
 import java.util.Scanner;
 
+//Multiplication of two binaries
 public class Exercise18 {
     static long calc(long b1, long b2) {
         int i = 0;
         long rmndr = 0;
         long result = 0;
         long[] sum = new long[20];
-        while (b1 != 0 || b2 != 0) {                  //actual multiplying process-heart of this program
+        while (b1 != 0 || b2 != 0) {
             sum[i++] = (b1 % 10 + b2 % 10 + rmndr) % 2;
             rmndr = (b1 % 10 + b2 % 10 + rmndr) / 2;
             b1 = b1 / 10;
@@ -17,7 +18,7 @@ public class Exercise18 {
         if (rmndr != 0) {
             sum[i++] = rmndr;
         }--i;
-        while (i >= 0) {                              //forming the result
+        while (i >= 0) {
             result = result * 10 + sum[i--];
         }
         return result;

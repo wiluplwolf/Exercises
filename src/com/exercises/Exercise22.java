@@ -2,6 +2,7 @@ package com.exercises;
 
 import java.util.Scanner;
 
+// Area of haxagon
 public class Exercise22 {
     public void exercise() {
         Scanner sc = new Scanner(System.in);
