@@ -2,7 +2,7 @@ package com.data;
 
 public class Data {
     public static void main(String[] args) {
-        Data6 dt = new Data6();
+        Data7 dt = new Data7();
         dt.data();
     }
 }
